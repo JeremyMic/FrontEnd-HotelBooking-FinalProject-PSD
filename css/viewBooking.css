@@ -1,0 +1,74 @@
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #06283D;
+}
+
+.navbar {
+    background-color: white;
+    font-weight: 500;
+    font-size: large;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.nav-btn a {
+    color: #2FA4FF;
+    margin: 16px;
+    padding: 6px;
+    width: auto;
+    height: 36px;
+}
+
+.nav-btn a:hover {
+    color: white;
+    background-color: #2FA4FF;
+    border-radius: 10px;
+}
+
+.profile i {
+    font-size: 48px;
+}
+
+.profile-name {
+    font-size: 20px;
+}
+
+.nav-toggle i {
+    font-size: 32px;
+}
+
+.star {
+    color: orange;
+}
+
+body {
+    background-color: #06283D;
+}
+
+.title{
+    font-size: 5vh;
+    color: white;
+}
+
+.hotel-selected {
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+    width: 100%;
+}
+
+.hotel-card img {
+    width: 30%;
+    border: 2px solid;
+    box-shadow: 0 2px;
+}
